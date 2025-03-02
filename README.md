@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerry
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning vue and git
 
 
 <!---
